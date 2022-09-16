@@ -7,6 +7,7 @@ import {
     linkedin,
     twitter,
     airbnb,
+    airbnb_hover,
     binance,
     coinbase,
     dropbox,
@@ -192,18 +193,22 @@ export const socialMedia = [
 export const clients = [
     {
         id: 'client-1',
-        logo: airbnb
+        logo: airbnb,
+        logo_hover: airbnb_hover
     },
     {
         id: 'client-2',
-        logo: binance
+        logo: binance,
+        logo_hover: airbnb_hover
     },
     {
         id: 'client-3',
-        logo: coinbase
+        logo: coinbase,
+        logo_hover: airbnb_hover
     },
     {
         id: 'client-4',
-        logo: dropbox
+        logo: dropbox,
+        logo_hover: airbnb_hover
     }
 ]
