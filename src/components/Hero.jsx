@@ -17,7 +17,7 @@ const Hero = () => (
 
             <div className="flex flex-row justify-between items-center w-full">
                 <h1 className="flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100ox] leading-[75px]">
-                    The Next <br className="sm:block hidden" />{' '}
+                    The SLAN <br className="sm:block hidden" />{' '}
                     <span className="text-gradient">Generation</span>
                 </h1>
                 <div className="ss:flex hidden md:mr-4 mr-0">
@@ -25,7 +25,7 @@ const Hero = () => (
                 </div>
             </div>
             <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100ox] leading-[75px] w-full">
-                Payment Method
+                IGNAN AKO!!!!
             </h1>
             <p className={`${styles.paragraph} max-w-[470px]`}>
                 Our team of experts uses a methodology to identify the credit cards most likely to
